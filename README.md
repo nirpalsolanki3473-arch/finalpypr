@@ -648,11 +648,11 @@ This project demonstrates the practical use of Python libraries for cleaning, an
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Your Name**
+**NIRPALSINH SOLANKI**
 
-
+[GitHub Profile](https://github.com/nirpalsolanki3473-arch)
 
 ---
 
